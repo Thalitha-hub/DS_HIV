@@ -30,8 +30,6 @@ new to Python, LLMs, or even coding, we aim to make this journey smooth and educ
     * [`main.py` - The Chatbot Application](#mainpy---the-chatbot-application)
 * [📂 Project Structure](#-project-structure)
 * [🤔 Troubleshooting](#-troubleshooting)
-* [🤝 Contributing](#-contributing)
-* [📄 License](#-license)
 
 ---
 
